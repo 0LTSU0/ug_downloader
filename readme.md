@@ -1,0 +1,1 @@
+Script for mining all guitar pro tabs from UG. NOTE: Using this seems to get your IP banned so use at your own risk :)
